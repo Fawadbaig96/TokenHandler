@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Token Handler</Title>
+    <Authors>Fawad-Baig</Authors>
+    <Company />
+    <Description>A handler which allows to replace tokens with their respective values. It also handles looping values as well</Description>
+    <PackageTags>Handlebars;TokenReplacer;ReplaceToken;StringBuilder;</PackageTags>
+    <PackageId>TokenHandler</PackageId>
+  </PropertyGroup>
+
+</Project>
