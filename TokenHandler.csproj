@@ -11,6 +11,7 @@
     <Description>A handler which allows to replace tokens with their respective values. It also handles looping values as well</Description>
     <PackageTags>Handlebars;TokenReplacer;ReplaceToken;StringBuilder;</PackageTags>
     <PackageId>TokenHandler</PackageId>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
