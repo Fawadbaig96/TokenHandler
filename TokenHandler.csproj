@@ -13,4 +13,8 @@
     <PackageId>TokenHandler</PackageId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Token.cs" />
+  </ItemGroup>
+
 </Project>

@@ -43,7 +43,7 @@ namespace TokenHandler
         {
             List<string> tokens = new List<string>();
 
-            string pattern = @"\{([^\}]+)\}";
+            string pattern = @"\{\{([^\}]+)\}\}";
             Regex regex = new Regex(pattern);
 
             MatchCollection matches = regex.Matches(body);
